@@ -1,7 +1,7 @@
 import os
 
 # Script Creado Por Andres Nuñez - t4ifi.
-# No me hago responsable de su uso.
+# No me hago responsable del uso indebido de esta herramienta.
 class Colores:
     ROJO = "\033[31m"
     VERDE = "\033[32m"
