@@ -23,3 +23,4 @@ git clone https://github.com/t4ifi/Vn.git
 cd Vn
 python3 Vn.py
 ```
+El uso de esta herramienta es bajo su propio riesgo. No me hago responsable de ningún daño, uso indebido o actividad ilegal que pueda derivarse del uso de este software. Asegúrese de cumplir con todas las leyes locales y de obtener el permiso adecuado antes de usarla.
