@@ -1,5 +1,5 @@
 ```python
-# Vn
+Vn
 ```
 Esta herramienta está diseñada para realizar búsquedas avanzadas en Internet mediante Google Dorks para identificar posibles vulnerabilidades de seguridad en sitios web. Permite realizar consultas específicas que ayudan a descubrir directorios expuestos, archivos sensibles, configuraciones incorrectas, bases de datos accesibles públicamente, y otros riesgos de seguridad que pueden poner en peligro la privacidad de los usuarios y la integridad de los sistemas. Ideal para pruebas de penetración y auditorías de seguridad.
 
