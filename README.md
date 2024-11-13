@@ -21,3 +21,6 @@ Clona este repositorio o descarga el archivo Vn.py a tu máquina local.
 ```python
 git clone https://github.com/t4ifi/Vn.git
 ```
+```python
+cd Vn
+```
